@@ -1,1 +1,1 @@
-# sermon_mining
+This is a repository for text mining scripts that I used for a friend's PhD thesis. We are trying to analyse sermons to explore patterns, how a priest reacted to the socio-political environment during the second half of the 20th century in Hungary. The script is still a work-in-progress, the aim of this repo is to share the code, approach and the Hungarian NLP tools used during the process. I believe this is a unique research area and the tools needed for such work only became available this year. Please feel free to use the Python code and the example file.
